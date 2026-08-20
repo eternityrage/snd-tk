@@ -1,4 +1,4 @@
-﻿name: Auto Publish Videos - Bridges Bountsy
+name: Auto Publish Videos - Bridges Bountsy
 
 on:
   schedule:
