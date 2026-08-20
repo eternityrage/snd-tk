@@ -51,10 +51,10 @@ jobs:
           critical_missing=0
           for secret in "${critical_secrets[@]}"; do
             if [ -z "${!secret}" ]; then
-              echo "âŒ Missing: $secret"
+              echo "?????? Missing: $secret"
               critical_missing=1
             else
-              echo "âœ… Found: $secret"
+              echo "??????? Found: $secret"
             fi
           done
 
@@ -74,19 +74,19 @@ jobs:
 
           for secret in "${optional_secrets[@]}"; do
             if [ -z "${!secret}" ]; then
-              echo "âš ï¸  Optional (not set): $secret"
+              echo "????????????  Optional (not set): $secret"
             else
-              echo "âœ… Found: $secret"
+              echo "??????? Found: $secret"
             fi
           done
 
           echo ""
           if [ $critical_missing -eq 1 ]; then
-            echo "âŒ Critical secrets are missing! Pipeline cannot continue."
+            echo "?????? Critical secrets are missing! Pipeline cannot continue."
             exit 1
           fi
 
-          echo "âœ… Critical secrets present. Continuing with available platforms..."
+          echo "??????? Critical secrets present. Continuing with available platforms..."
         env:
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
           DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
@@ -135,11 +135,11 @@ jobs:
           exit_code=$?
 
           if [ $exit_code -ne 0 ]; then
-            echo "âŒ Pipeline failed with exit code $exit_code"
+            echo "?????? Pipeline failed with exit code $exit_code"
             exit $exit_code
           fi
 
-          echo "âœ… Pipeline completed successfully"
+          echo "??????? Pipeline completed successfully"
       
       - name: Commit published videos log
         run: |
@@ -154,8 +154,8 @@ jobs:
             git commit -m "Update published videos log [skip ci]"
             git pull --rebase
             git push
-            echo "âœ… Committed and pushed published_videos.json"
+            echo "??????? Committed and pushed published_videos.json"
           else
-            echo "â„¹ï¸ No changes to commit"
+            echo "????????????? No changes to commit"
           fi
 
