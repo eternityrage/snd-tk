@@ -254,5 +254,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-dbf18d7e-9e6e-4168-9636-bf536a9ba3d6.mp4",
+        "metadata": {
+            "title": "From Rebar to Reality: Watching a Bridge Rise in Real Time! \ud83c\udfd7\ufe0f\u2728 (Timelapse Engineering Awe)",
+            "description": "Like if you love bridge construction! This time-lapse captures the magic of transformation\u2014steel beams swinging into place, concrete foundations locking in strength, and cranes towering like guardians as the structure takes shape. As a bridge engineering enthusiast, I can\u2019t help but feel that rush when you see precision teamwork and engineering fundamentals come together into a true megaproject. Every frame is a reminder that infrastructure is more than construction\u2014it\u2019s an achievement built for generations. Comment which bridge you want to see next, Share with an engineering fan, and Follow Bridges Bountsy for more engineering marvels!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
