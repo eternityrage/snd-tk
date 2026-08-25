@@ -238,5 +238,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-d32e64a2-b736-4995-9985-5ea4b3864c3c.mp4",
+        "metadata": {
+            "title": "From Bare Ground to Steel Giants: A Bridge Build Timelapse You Won\u2019t Forget!",
+            "description": "Like if you love bridge construction! Watch as concrete foundations cure into a solid anchor, steel beams rise with precision, and towering cranes choreograph every lift like a real-world engineering symphony. As the structure takes shape, you\u2019ll see the real magic of civil engineering\u2014load paths, alignment, and the careful sequencing that turns raw materials into an infrastructure masterpiece. This is the kind of megaproject progress that proves patience + engineering skill can move mountains (or at least cross them). Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy for more satisfying build time-lapses and behind-the-scenes marvels. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
