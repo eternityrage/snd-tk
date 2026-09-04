@@ -718,5 +718,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-7f458d02-7214-48fe-863c-976450063e5b.mp4",
+        "metadata": {
+            "title": "From Lifts to Lines: Watch a Bridge Take Shape in Time-Lapse\u2014Steel, Concrete, and Pure Engineering Magic!",
+            "description": "Like if you love bridge construction! In this time-lapse, you\u2019ll see steel beams rise like a carefully choreographed skeleton, concrete foundations lock everything into place, and cranes orchestrate the heavy work with stunning precision. As a bridge engineering enthusiast, I can\u2019t help but geek out over how each phase matters\u2014load paths, stability, alignment, and the \u201cinvisible\u201d engineering decisions that turn raw materials into a safe, enduring structure. Every movement is part of a larger megaproject story where design becomes reality, beam by beam. Comment which bridge you want to see next and share with an engineering fan! Follow Bridges Bountsy for more satisfying builds and real-world infrastructure marvels. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
