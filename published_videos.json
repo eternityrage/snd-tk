@@ -830,5 +830,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-3cf274a5-4ba1-4dc8-a840-18a963a5d326.mp4",
+        "metadata": {
+            "title": "From Steel Skeleton to Concrete Strength: A Satisfying Bridge Timelapse by Bridges Bountsy",
+            "description": "Join me as the magic of bridge engineering unfolds in fast-forward\u2014watch steel beams lock into place, concrete foundations set with that irresistible \u201csmooth-and-solid\u201d rhythm, and towering cranes orchestrate every lift like a precision ballet. This time-lapse is pure visual poetry: sparks, rigging, alignment, and the slow transformation from raw groundwork into an engineering marvel. Every frame feels like progress you can almost hear\u2014measurements becoming structure, structure becoming a bridge worth building. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and Follow Bridges Bountsy! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
