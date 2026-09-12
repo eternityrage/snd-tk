@@ -1070,5 +1070,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-1316a8e8-8bec-4392-8190-d669d5d4aff6.mp4",
+        "metadata": {
+            "title": "From Steel Skeleton to Concrete Strength: A Bridge Build Timelapse That Explains the Magic",
+            "description": "Join me for a jaw-dropping bridge construction time-lapse\u2014watch steel beams rise, cranes swing into position, and concrete foundations lock everything into place like a masterpiece in motion. As a bridge engineering enthusiast, I love seeing the hidden logic behind every step: alignment checks, load paths, and the careful sequencing that turns raw materials into a structure built to last. Each frame reveals why bridges are real-world engineering marvels\u2014precision, strength, and teamwork working together at megaproject scale. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and Follow Bridges Bountsy for more satisfying build journeys! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
