@@ -1086,5 +1086,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-1316a8e8-8bec-4392-8190-d669d5d4aff6.mp4",
+        "metadata": {
+            "title": "From First Pour to Soaring Spans: A Bridge Build Timelapse Like You\u2019ve Never Seen",
+            "description": "Watch the transformation from raw concrete foundations to towering steel beams in this fast-cut bridge construction time-lapse\u2014cranes swing, crews align, and every step reveals the engineering logic behind the marvel. As a bridge engineering enthusiast, I love how each phase locks into the next: foundations create stability, structural steel provides strength, and precise placement turns calculations into something you can point to and say, \u201cWe built that.\u201d Notice how the sequencing matters\u2014timing, tolerances, and load paths are all working together in real time. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
