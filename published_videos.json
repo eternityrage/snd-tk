@@ -1646,5 +1646,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-c00c5e2c-bc7c-4605-90c2-a5f692883e4a.mp4",
+        "metadata": {
+            "title": "Steel Oath & Concrete Thunder: An Epic Bridge Timelapse from Zero to Skyline (Bridges Bountsy)",
+            "description": "From the first concrete foundation pour to the final steel beam lock-in, this timelapse is pure engineering theater\u2014cranes roaring overhead, crews aligning precision where gravity demands perfection. Every frame feels like a cinematic countdown to something monumental, the kind of megaproject progress that makes my bridge-obsessed heart race. Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan and follow Bridges Bountsy for more dramatic builds, satisfied cravings, and skyline-shaping marvels. #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
