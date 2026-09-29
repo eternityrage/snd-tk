@@ -1902,5 +1902,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-c00c5e2c-bc7c-4605-90c2-a5f692883e4a.mp4",
+        "metadata": {
+            "title": "From Steel to Strength: A Time-Lapse Journey of Concrete Foundations & Beam-By-Beam Marvels",
+            "description": "Like if you love bridge construction! Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! Watch the engineering magic unfold as cranes lift steel beams into place, concrete foundations take shape, and every carefully planned connection becomes part of a bigger load-bearing masterpiece. In this time-lapse, you\u2019ll see how precision alignment, structural geometry, and construction sequencing work together to turn raw materials into an infrastructure marvel built to last. If you\u2019ve ever wondered how megaprojects move from drawings to real-world strength\u2014this one is pure satisfaction for bridge nerds.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
