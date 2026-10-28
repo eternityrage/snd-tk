@@ -3246,5 +3246,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-72c8bdca-540e-4f50-9b8e-000f12bcf658.mp4",
+        "metadata": {
+            "title": "From Steel Beams to Sky-High Bridge",
+            "description": "There's something mesmerizing about watching a bridge come together from nothing. From the first steel beam to the final cable tensioned into place, every step is a testament to human engineering. This time-lapse captures the entire journey - foundation work, towering pylons, careful placement of each segment, and that breathtaking moment when both sides meet.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
