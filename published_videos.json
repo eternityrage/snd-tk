@@ -4686,5 +4686,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-2c2df6fe-3b19-4581-aa3a-72405467413b.mp4",
+        "metadata": {
+            "title": "From Cranes to Concrete: Watch a Bridge Come Alive in Time-Lapse Steel & Foundations Magic!",
+            "description": "Like if you love bridge construction! In this time-lapse, you\u2019ll see steel beams rise, concrete foundations take shape, and cranes orchestrate every precision move like a choreographed engineering symphony. As a bridge engineering enthusiast, I can\u2019t get enough of the real-world logic behind each step\u2014how load paths, foundations, and framing work together to turn raw materials into a structure built to last. The moments where beams lock into place and the deck begins to form are pure infrastructure satisfaction\u2014proof that megaprojects are powered by math, materials, and relentless craftsmanship. Comment which bridge you want to see! Share with an engineering fan! Follow Bridges Bountsy! #bridge #engineering #construction #timelapse #infrastructure #architecture #civilengineering #steel #megaproject #satisfying",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": false,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
